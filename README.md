@@ -62,8 +62,3 @@ Glove text file - Have to get from online
 Evaluation Method We used BLEU Score
 
 
-Created by:
-Sai Guptha Grandhi - sgran5@unh.newhaven.edu
-Prathibha Garipelly -pgari3@unh.newhaven.edu
-
-
